@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-import numpy as np  # ✅ Importação necessária para log1p e outras funções numéricas
+import numpy as np  # 
 
 
 # Carregar os dados
@@ -473,7 +473,7 @@ def pagina_sobre():
 
     st.markdown("## 👩‍💻 Autoria")
     st.write("""
-    Projeto desenvolvido por **Maiara Carvalho**, como parte de um estudo prático de análise preditiva e ciência de dados.
+    Projeto desenvolvido por **Maiara Carvalho**
     """)
 
 
